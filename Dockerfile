@@ -6,4 +6,4 @@ maintainer Konstantin Burykin <burkostya@gmail.com>
 
 run pacman -Syu --noconfirm
 
-run pacman -S --noconfirm nodejs
+run pacman -S --noconfirm nodejs python2
